@@ -20,7 +20,7 @@ The dataset containes 402 entries and 25 columns.
 - Power Query
 - Data validation to ensure integrity.
 ## Key Findings
-The findings have been divided into four categories to prived clear snapshot for the stakeholders.
+The findings have been divided into four categories to provide a clear snapshot for the stakeholders.
 ![](sc_dashboard.png)
 #### Key Metrics/ KPIs
 - Total Revenue: $2.3M, showing overall sales performance.
@@ -50,6 +50,9 @@ Insights for supplier perfomance and quality.
 - Bar chart showing Supplier 1 ($4,887), Supplier 4 ($4,515), Supplier 2 ($3,223), Supplier 5 ($2,618), Supplier 3 ($701).
 - Donut chart showing Supplier 2 (25%, 574,310 units), Supplier 1 (25%, 541,180 units), Supplier 4 (21%, 470,224 units), Supplier 5 (16%, 375,294 units), Supplier 3 (14%, 319,888 units).
 - Lists defect rates: Supplier 1 (1.8%), Supplier 4 (2.3%), Supplier 2 (2.3%), Supplier 5 (2.5%), Supplier 3 (2.7%).
+
+#### Filters
+These filters allow users to segment data for targeted analysis.
 
 ## Insights and Recommendations
 1. **Cost and Profit**: With a 87% Profit margin and Profit ($2.1M) on Revenue ($2.3M), I'ld say The business is doing very well as long as we continue managing cost control(Expenses) while reducing the average defect rates (2.27%) though small to decrease waste and increase Profits.
