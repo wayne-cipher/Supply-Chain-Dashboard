@@ -15,10 +15,13 @@ The dataset containes 402 entries and 25 columns.
 - Customer demographics:	Information about customers such as age, gender, and location.
 - Stock levels:	Current quantity of products available in inventory.
 - E.t.c
+  ![](datatable.png)
 ## Tools/Technologies Used
 - Excel: For cleaning, Preparation, Transformation.
 - Power Query
 - Data validation to ensure integrity.
+## Pivot Tables
+![](pivot1.png)![](pivot2.png)
 ## Key Findings
 The findings have been divided into four categories to provide a clear snapshot for the stakeholders.
 ![](sc_dashboard.png)
